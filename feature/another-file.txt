@@ -3,3 +3,5 @@ This line was replaced in feature-2 branch.
 A line that was added from VSCode in the feature-1 branch.
 
 This line was added locally in feature-2 branch.
+
+This line was added locally in feature-2 branch to show how 'git push' works.
